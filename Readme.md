@@ -60,10 +60,10 @@
 4. برای شروع پروژه، دستور زیر را اجرا کنید:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-   سپس در مرورگر خود به آدرس `http://localhost:3000` بروید تا پروژه را مشاهده کنید.
+   سپس در مرورگر خود به آدرس `http://localhost:5173` بروید تا پروژه را مشاهده کنید.
 
 ---
 
@@ -148,10 +148,10 @@ To set up the project locally, follow these steps:
 4. To start the project, run the following command:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-   Then open your browser and go to `http://localhost:3000` to view the project.
+   Then open your browser and go to `http://localhost:5173` to view the project.
 
 ---
 
