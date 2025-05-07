@@ -20,7 +20,6 @@
 ## 🔧 ویژگی‌ها
 
 * **سفارشی‌سازی رنگ**: تغییر رنگ خودرو با چند کلیک ساده.
-* **انتخاب قطعات**: انتخاب و تغییر قطعات مختلف خودرو مانند چرخ‌ها، بدنه و آینه‌ها.
 * **نمایش سه‌بعدی**: نمایش خودرو در یک نمای سه‌بعدی واقعی.
 * **واکنش‌گرا**: سازگار با تمامی دستگاه‌ها و مرورگرها.
 
@@ -31,7 +30,7 @@
 برای اجرای این پروژه، به نصب ابزارهای زیر نیاز دارید:
 
 * [Node.js](https://nodejs.org/)
-* npm یا yarn
+* npm
 
 ---
 
@@ -108,7 +107,6 @@
 ## 🔧 Features
 
 * **Color Customization**: Change the car color with just a few simple clicks.
-* **Part Selection**: Choose and change various car parts such as wheels, body, and mirrors.
 * **3D View**: View the car in a real 3D perspective.
 * **Responsive**: Works on all devices and browsers.
 
@@ -119,7 +117,7 @@
 To run this project, you will need to have the following tools installed:
 
 * [Node.js](https://nodejs.org/)
-* npm or yarn
+* npm
 
 ---
 
