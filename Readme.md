@@ -1,14 +1,19 @@
-حتماً! در اینجا متن به صورت ساده و قابل کپی برای فایل `README.md` آمده است:
+<p align="center">
+  <a href="#fa">🇮🇷 فارسی</a> | <a href="#en">🇺🇸 English</a> | <a href="#preview"> Preview </a>
+</p>
 
 ---
 
-# 🚗 Car Customizer 3D
+## پیش‌نمایش 👀
+<a id="preview"></a>
+
+<p align="center">
+  <img src="./preview.gif" alt="preview project">
+</p>
+
+<h1 id="fa"> 🚗 Car Customizer 3D </h1>
 
 **Car Customizer 3D** یک ابزار سفارشی‌سازی خودروی سه‌بعدی است که به کاربران این امکان را می‌دهد تا ویژگی‌های مختلف خودرو را به سادگی در یک محیط تعاملی و سه‌بعدی تغییر دهند. این پروژه با استفاده از فناوری‌های مدرن وب مانند **WebGL** و **Three.js** ساخته شده است.
-
----
-
-![Preview](preview.gif)
 
 ---
 
@@ -94,4 +99,88 @@
 
 ---
 
-این محتوا را می‌توانید مستقیماً در فایل `README.md` پروژه خود کپی کنید.
+<h1 id="en"> 🚗 Car Customizer 3D </h1>
+
+**Car Customizer 3D** is a 3D car customization tool that allows users to easily modify various features of the car in an interactive 3D environment. The project is built using modern web technologies like **WebGL** and **Three.js**.
+
+---
+
+## 🔧 Features
+
+* **Color Customization**: Change the car color with just a few simple clicks.
+* **Part Selection**: Choose and change various car parts such as wheels, body, and mirrors.
+* **3D View**: View the car in a real 3D perspective.
+* **Responsive**: Works on all devices and browsers.
+
+---
+
+## ⚙️ Prerequisites
+
+To run this project, you will need to have the following tools installed:
+
+* [Node.js](https://nodejs.org/)
+* npm or yarn
+
+---
+
+## 🚀 Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the project:
+
+   ```bash
+   git clone https://github.com/Mohammad-Amirahmadi/Car-Customizer-3D.git
+   ```
+
+2. Navigate into the project directory:
+
+   ```bash
+   cd Car-Customizer-3D
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. To start the project, run the following command:
+
+   ```bash
+   npm start
+   ```
+
+   Then open your browser and go to `http://localhost:3000` to view the project.
+
+---
+
+## 🛠️ How to Use
+
+1. Once the page loads, use the customization tools to change the color and parts of the car.
+2. The car will be displayed in **3D** with the ability to rotate and view it from different angles.
+
+---
+
+## 🤝 Contributing
+
+If you would like to contribute to the project:
+
+1. First, open an **Issue** to suggest new features or report any issues.
+2. Then submit your **Pull Request**.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT** License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+---
+
+## 💬 Contact
+
+For questions and feedback, you can reach me on [GitHub](https://github.com/Mohammad-Amirahmadi) or via email.
+
+---
+
+👨‍💻 **Developer:** Mohammad Amirahmadi
